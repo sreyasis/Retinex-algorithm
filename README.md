@@ -19,4 +19,4 @@
 ![ALT](/inputimage/filters.PNG)
 
 <h4> We use localised gaussian filters because it is a low pass filter</h4><br>
-![ALT](Figure_1.png)  
+ 
