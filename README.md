@@ -19,7 +19,4 @@
 ![ALT](/inputimage/filters.PNG)
 
 <h4> We use localised gaussian filters because it is a low pass filter</h4><br>
-# Run the code
-      python retinex_final.py
-# Output image
-![ALT](output.PNG)  
+![ALT](Figure_1.png)  
